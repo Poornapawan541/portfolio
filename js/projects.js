@@ -59,7 +59,7 @@
         "Compatibility scoring over skill overlap and learning goals, combined with profile completeness signals to rank mentor suggestions.",
       image: "assets/images/project-2.jpg",
       repo: "https://github.com/Poornapawan541",
-      demo: "",
+      demo: "https://skill-swap09.vercel.app/",
     },
     {
       id: "gym-management-system",
@@ -97,7 +97,7 @@ image: "assets/images/project-3.jpg",
 
 repo: "https://github.com/Poornapawan541",
 
-demo: "",
+demo: "https://golden-gym-mern.ai.studio/",
     },
   ];
 
